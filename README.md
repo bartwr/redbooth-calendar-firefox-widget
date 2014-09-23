@@ -1,0 +1,2 @@
+redbooth-calendar-firefox-widget
+================================
